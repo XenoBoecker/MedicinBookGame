@@ -1,0 +1,54 @@
+{
+  "diseases": [
+  {
+    "name": "Swamp Fever",
+    "symptoms": ["Fever", "Sweating", "Muscle Pain"],
+    "cures": ["Bogroot", "Moonleaf"]
+  },
+  {
+    "name": "Red Pox",
+    "symptoms": ["Rash", "Fever", "Fatigue", "Itchy Eyes"],
+    "cures": ["Blazebloom", "Moonleaf"]
+  },
+  {
+    "name": "Shadow Cough",
+    "symptoms": ["Cough", "Chest Pain", "Shortness of Breath"],
+    "cures": ["Nightshade", "Silvermint"]
+  },
+  {
+    "name": "Wanderer’s Malaise",
+    "symptoms": ["Fatigue", "Dizziness", "Insomnia"],
+    "cures": ["Sunpetal", "Bogroot"]
+  },
+  {
+    "name": "Duskworm",
+    "symptoms": ["Joint Pain", "Fever", "Swollen Glands"],
+    "cures": ["Silvermint", "Earthroot"]
+  },
+  {
+    "name": "Miregut",
+    "symptoms": ["Nausea", "Vomiting", "Diarrhea"],
+    "cures": ["Earthroot", "Sunpetal"]
+  },
+  {
+    "name": "Bleak Flu",
+    "symptoms": ["Cough", "Sneezing", "Headache"],
+    "cures": ["Moonleaf", "Blazebloom"]
+  },
+  {
+    "name": "Crystal Vein",
+    "symptoms": ["Rash", "Joint Pain", "Chills"],
+    "cures": ["Bogroot", "Nightshade"]
+  },
+  {
+    "name": "Drylung",
+    "symptoms": ["Cough", "Sore Throat", "Shortness of Breath"],
+    "cures": ["Silvermint", "Sunpetal"]
+  },
+  {
+    "name": "Ash Rot",
+    "symptoms": ["Chest Pain", "Sweating", "Dizziness"],
+    "cures": ["Nightshade", "Blazebloom"]
+  }
+]
+}
